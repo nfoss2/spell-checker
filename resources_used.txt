@@ -1,0 +1,115 @@
+https://www.programiz.com/cpp-programming/library-function/cctype/tolower
+https://www.programiz.com/cpp-programming/library-function/cctype/isalpha
+http://www.cplusplus.com/forum/beginner/74562/
+https://www.geeksforgeeks.org/stdstringcompare-in-c/
+https://www.educative.io/edpresso/how-to-resolve-the-expression-must-have-class-type-error-in-cpp
+http://www.cplusplus.com/doc/oldtutorial/templates/
+https://www.techiedelight.com/remove-certain-characters-string-cpp/
+
+
+dictionary size: 133168
+done checking and these are the results
+finished in time: 19.6512
+There are 925 words found in the dictionary
+        43818 compares. average: 47
+There are 75words NOT found in the dictionary
+        133168 compares. average: 1775
+There were 11 words not checked.
+\\Mac\Home\Desktop\CoSciII\Program1_2030\Debug\Program1_2030.exe (process 10184) exited with code -1073741819.
+Press any key to close this window . . .
+
+dictionary size: 133168
+done checking and these are the results
+finished in time: 10.2859
+There are 925 words found in the dictionary
+        43818 compares. average: 47
+There are 75words NOT found in the dictionary
+        133168 compares. average: 1775
+There were 11 words not checked.
+\\Mac\Home\Desktop\CoSciII\Program1_2030\Debug\Program1_2030.exe (process 1808) exited with code -1073741819.
+Press any key to close this window . . .
+
+dictionary size: 133168									this is right
+done checking and these are the results
+finished in time: 11073.3
+There are 950068 words found in the dictionary           this is right!!!
+        43818 compares. average: 0							the averages are wrong
+There are 31923 words NOT found in the dictionary
+        133168 compares. average: 4							the average is wrong
+There were 1283 words not checked.							this is wrong
+\\Mac\Home\Desktop\CoSciII\Program1_2030\Debug\Program1_2030.exe (process 6440) exited with code -1073741819.
+Press any key to close this window . . .
+
+
+dictionary size: 133168
+done checking and these are the results
+finished in time: 12144
+There are 950068 words found in the dictionary
+        43818 compares. average: 0
+There are 31923 words NOT found in the dictionary
+        133168 compares. average: 4
+There were 1283 words not checked.
+\\Mac\Home\Desktop\CoSciII\Program1_2030\Debug\Program1_2030.exe (process 7032) exited with code -1073741819.
+Press any key to close this window . . .
+
+981991
+
+
+
+
+//testing
+	bool empty, found;
+	int size;
+	cout << "hello World\n";
+	myList<string> list;
+	empty = list.isEmpty();
+	cout << empty << endl;
+	cout << "made\n";
+	list.insert("HI1'%");
+	list.insert("&h'I");
+	list.insert("2H(i");
+	list.insert("hi3$%^&");
+	list.insert("&*");
+	empty = list.isEmpty();
+	cout << empty << endl;
+	size = list.getSize();
+	cout << size << endl;
+	list.print();
+	list.cleanWord();
+	list.print();
+	found = list.find("hi");
+	if (found)
+		cout << "found\n";
+	else
+		cout << "not found\n";
+	found = list.find("bye");
+	if (found)
+		cout << "found\n";
+	else
+		cout << "not found\n";
+	list.remove();
+	list.remove();
+	list.remove();
+	list.remove();
+	found = list.find("bye");
+	if (found)
+		cout << "found\n";
+	else
+		cout << "not found\n";
+	list.~myList();
+	cout << "done";
+	
+}
+
+
+
+
+
+the -> when -> 1832 -> february -> second -> the -> of -> that -> and -> 1831 -> november -> is -> articles -> these -> of -> first -> the -> of -> date -> the -> buckingham -> e -> and -> t -> j -> by -> boston -> in -> published -> formerly -> magazine -> england -> new -> the -> in -> found -> be -> will -> breakfasttable -> the -> of -> autocrat -> the -> entitled -> articles -> two -> duration -> in -> century -> a -> of -> quarter -> a -> just -> was -> papers -> these -> of -> first -> the -> of -> sentence -> first -> the -> in -> to -> referred -> interruption -> the -> autobiography -> autocrat's -> the -> ccx074coventryacuk -> price -> david -> by -> proofed -> and -> scanned -> holmes -> wendell -> oliver -> by -> breakfasttable -> the -> of -> autocrat -> the -> motley -> lothrop -> john -> of -> memoir -> a -> teachers -> early -> my -> of -> some -> libraries -> medical -> practitioner -> young -> the -> massachusetts -> in -> profession -> medical -> the -> teaching -> bedside -> and -> scholastic -> science -> medical -> of -> provinces -> some -> in -> knowledge -> of -> lines -> border -> science -> medical -> in -> countercurrents -> and -> currents -> fever -> puerperal -> of -> contagiousness -> the -> delusions -> kindred -> its -> and -> homeopathy -> essays -> medical -> pew -> the -> and -> pulpit -> the -> ashes -> from -> cinders -> trial -> inevitable -> the -> captain -> the -> after -> hunt -> my -> newspaper -> the -> and -> bread -> life -> of -> volume -> old -> an -> from -> pages -> antipathy -> mortal -> a -> angel -> guardian -> the -> venner -> elsie -> teacups -> the -> over -> table -> breakfast -> the -> at -> poet -> the -> breakfasttable -> the -> at -> professor -> the -> breakfasttable -> the -> of -> autocrat -> the -> contents -> sr -> holmes -> wendell -> oliver -> of -> files -> gutenberg -> entire -> the -> dw -> them -> of -> meal -> entire -> an -> making -> before -> ideas -> author's -> the -> sample -> to -> wish -> may -> who -> those -> for -> file -> the -> of -> end -> the -> at -> pointers -> or -> bookmarks -> of -> list -> short -> a -> is -> there -> note -> widgercecometnet -> widger -> david -> by -> produced -> was -> ebook -> this ->  -> holmes -> wendell -> olive -> of -> works -> complete -> the -> of -> ebook -> pg -> the -> of -> start ->  -> ascii -> encoding -> set -> character -> english -> language -> 12 -> edition -> 2002 -> 18 -> march -> on -> updated -> last -> was -> file -> this -> 2001 -> 2 -> february -> on -> posted -> first -> was -> file -> this -> schedule -> of -> ahead -> year -> one -> than -> more -> are -> we -> yes -> 3252 -> ebook -> 2002 -> june -> date -> release -> jr -> holmes -> w -> o -> jurist -> the -> not -> poet -> and -> physician -> the -> sr -> holmes -> wendell -> oliver -> author -> sr -> holmes -> wendell -> oliver -> of -> works -> pg -> complete -> the -> title -> volunteers -> of -> thousands -> by -> prepared -> were -> ebooks -> these -> 1971 -> since -> computers -> by -> and -> humans -> both -> by -> readable -> ebooks -> texts -> electronic -> vanilla -> plain -> free -> of -> world -> the -> to -> welcome -> involved -> get -> to -> how -> and -> gutenberg -> project -> to -> donation -> a -> make -> to -> how -> about -> out -> find -> also -> can -> you -> used -> be -> may -> file -> the -> how -> in -> restrictions -> and -> rights -> specific -> your -> about -> information -> important -> is -> included -> file -> this -> of -> bottom -> the -> at -> gutenberg -> project -> and -> ebook -> the -> about -> information -> other -> and -> print -> small -> legal -> the -> read -> please -> permission -> written -> without -> header -> the -> edit -> or -> change -> not -> do -> it -> remove -> not -> do -> please -> file -> gutenberg -> project -> this -> viewing -> when -> seen -> thing -> first -> the -> be -> should -> header -> this -> ebook -> gutenberg -> project -> other -> any -> or -> this -> redistributing -> or -> downloading -> before -> country -> your -> for -> laws -> copyright -> the -> check -> to -> sure -> be -> world -> the -> over -> all -> changing -> are -> laws -> copyright -> poet -> and -> physician -> the -> sr -> holmes -> wendell -> oliver -> by -> series -> our -> in -> 10 -> sr -> holmes -> w -> o -> of -> works -> pg -> complete -> the -> of -> ebook -> gutenberg -> project -> the /
+
+
+ebook -> pg -> o -> w -> 10 -> ebook -> ebook -> ebooks -> 1971 -> ebooks -> pg -> o -> w -> 2002 -> ebook -> 3252 -> 2 -> 2001 -> 18 -> 2002 -> 12 ->  -> pg -> ebook ->  -> ebook -> widger -> widgercecometnet -> dw -> breakfasttable -> breakfasttable -> teacups -> venner -> countercurrents -> lothrop -> breakfasttable -> ccx074coventryacuk -> breakfasttable -> j -> t -> e -> 1831 -> 1832 /
+
+\\Mac\Home\Desktop\CoSciII\Program1_2030\Debug\Program1_2030.exe (process 8540) exited with code -1073741819.
+Press any key to close this window . . .
+
